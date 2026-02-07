@@ -22,6 +22,9 @@ This project implements a Smart Digital Lock using VHDL and is simulated using X
 ## Simulation
 The design was verified using Vivado behavioral simulation.
 Correct password unlocks the system, and incorrect inputs keep it locked.
+## Simulation Output
 
+![Simulation Output](simulation_output.png)
 ## Author
+
 HRUTIK SHELAKE
